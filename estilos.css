@@ -1,0 +1,10 @@
+.fondo-page1{
+    background-image: url(images/img-fondo1.svg);
+    height: auto;
+}
+
+.color-primario{
+    background-color: #FFC139 !important;
+    color: white !important;
+}
+
